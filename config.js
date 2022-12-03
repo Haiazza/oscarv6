@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Jatim" //ur location
+global.vcardowner = ['62859194145686'] //ur owner number
+global.ownername = "AZZ" //ur owner name
+global.developer = "AZZ" //nama lu
+global.ytname = "-" //ur yt chanel name
+global.socialm = "https://instagram.com" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com"
+global.location = "Mars" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
+global.owner = ['62859194145686'] //ur number
+global.ownernomer = "62859194145686" //ur number
+global.ownertag = '62859194145686' //ur tag number
+global.premium = ['62859194145686'] //ur premium number
+global.botname = 'AzzBotz' //ur bot name
+global.ownername = "AZZ"
+global.linkz = "https://youtube.com" //your theme url which will be displayed on whatsapp
+global.dana = "6281264952069"
+global.pulsa = "6281264952069"
+global.websitex = "https://youtube.com" //ur website to be displayed
+global.websitex1 = "https://youtube.com"
+global.botscript = 'https://youtube.com' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.author = "AzzBotz" //ur sticker watermark author
+global.wm = "AZZ" //ur watermark
 
 // Other
 global.sessionName = 'Session'
